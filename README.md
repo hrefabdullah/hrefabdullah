@@ -5,7 +5,7 @@
 
 - 🔭 Check out my learning on [React JS](https://github.com/hrefabdullah/seeking-react)
 
-- 🌱 I’m currently focusing on **Frontend development**
+- 🌱 I’m currently focusing on **Backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrefabdullah?tab=repositories](https://github.com/hrefabdullah?tab=repositories)
 
