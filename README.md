@@ -1,12 +1,12 @@
 # Hi 👋, I'm Abdullah
 
-### Full stack dev and a programming enthusiast
+### Data Science and AI/Ml
 
-- 🔭 I'm currently working on **docXmaker**
+- 🔭 I'm currently working on **Data Analysis**
 
-- 🌱 I'm currently learning **System design and databases**
+- 🌱 I'm currently learning **Python Libraries**
 
-- 💬 Ask me about **Tech stuff not AI**
+- 💬 Ask me about **Low Level Programming**
 
 - 📫 How to reach me **abdullah8web@gmail.com**
 
