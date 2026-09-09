@@ -1,22 +1,109 @@
-# Hi 👋, I'm Abdullah
+# Abdullah
 
-### Data Science and AI/Ml
+### Data Science & AI Engineering
 
-- 🔭 I'm currently working on **Data Analysis**
+Computer Science student focused on building **data-driven and intelligent systems**.
 
-- 🌱 I'm currently learning **Python Libraries**
+Currently working through the Data Science → Machine Learning → AI Engineering path, with an emphasis on understanding the fundamentals and building practical projects.
 
-- 💬 Ask me about **Low Level Programming**
+---
 
-- 📫 How to reach me **abdullah8web@gmail.com**
+## Technical Focus
 
-- ⚡ Fun fact **I use arch BTW**
+* **Data Analysis & EDA** — data cleaning, preprocessing, exploratory analysis, visualization
+* **Python for Data Science** — NumPy, Pandas, Matplotlib
+* **Statistics** — probability, distributions, hypothesis testing, correlation
+* **SQL** — querying, filtering, aggregation and relational data analysis
+* **Machine Learning** — currently building foundational knowledge
+* **AI Engineering** — long-term focus on ML systems, LLMs and intelligent applications
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Tech Stack
+
+### Languages
+
 <p align="left">
-<a href="https://github.com/hrefabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hrefabdullah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hrefabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrefabdullah" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,js,java" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### Data Science & AI
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/jupyter/notebook/main/jupyter.svg" width="45" height="45"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
+</a>
+</p>
+
+### Databases
+
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/> </a> <a href="https://supabase.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45"/> </a> </p>
+
+### Development & Version Control
+
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/> </a> </p>
+
+---
+
+## Selected Work
+
+* **Data Analysis & EDA** — statistical exploration and visualization of real-world datasets
+* **Python Projects** — object-oriented programming, file handling, data processing and automation
+* **Web Applications** — production-oriented applications built with React, Next.js and modern web technologies
+* **Kariigar** — service marketplace application currently under development
+
+---
+
+## Current Learning
+
+```text
+Python
+  └── NumPy → Pandas → Matplotlib
+                    ↓
+              Data Analysis
+                    ↓
+              Statistics + SQL
+                    ↓
+            Machine Learning
+                    ↓
+             AI Engineering
+```
+
+---
+
+## Connect
+
+<p align="left">
+<a href="https://github.com/hrefabdullah">
+<img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+<a href="https://linkedin.com/in/hrefabdullah">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+</p>
+
+**Email:** [abdullah8web@gmail.com](mailto:abdullah8web@gmail.com)
